@@ -1,2 +1,3 @@
 # perceptrino
-Perceptrón en Arduino
+
+Se construye un perceptrón en Arduino
