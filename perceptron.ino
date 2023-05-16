@@ -1,3 +1,7 @@
+// Por Roberto A. Zavala
+// Libro : https://www.amazon.com.mx/dp/B074TTGLL2
+// 🙏🏼    : DNv7acPAeVBhTXbKv26itJecPG1SPy2o4F
+
                                           // Sea una red con las propiedades:
 float u = 0.5;                            // umbral
 float r = 0.1;                            // razon de aprendizaje
